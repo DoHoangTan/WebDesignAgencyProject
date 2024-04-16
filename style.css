@@ -37,7 +37,7 @@ span {
   float: right;
 }
 
-@media (width >= 680px) {
+@media (width >= 1200px) {
   body {
     background-color: rgb(255, 0, 191);
   }
